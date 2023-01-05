@@ -1,3 +1,4 @@
+--> [Patika](https://app.patika.dev)
 # Ödev 1
 ## **Proje İsterleri**
 İlk Web Sayfamızı Oluşturmak
