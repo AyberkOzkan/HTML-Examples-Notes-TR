@@ -40,7 +40,7 @@ Tasarımı mümkün olduğunca benzetmeniz gerekmekte. Buttonların, arama kısm
 
 Kod yazarken yorum satırları kullanmaya özen gösteriniz. ödevin indirilebilir içeriklerine buradan ulaşabilirsiniz.
 
-![Google Homepage](images/google.png)
+![Google Homepage](images/google.PNG)
 
 Bu ödev ile birlikte CSS bölümünü tamamladınız, tebrik ederiz!
 
